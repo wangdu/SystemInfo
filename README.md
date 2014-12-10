@@ -12,8 +12,9 @@ This utility provides informations such as
 - Swap Memory (Free & Total)
 
 Usage :
+<pre>
     sysInfo = new SystemInfo();
     sysInfo.getCpuFrequency();
     sysInfo.getPhysicalMemory();
-
+</pre>
 
